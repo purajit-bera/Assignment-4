@@ -1,0 +1,4 @@
+Hi,
+This is Purajit.
+I am currently learning Python.
+I want to build some cool projects with python.
